@@ -1,7 +1,8 @@
 # DialogLoadShow
 加载转圈对话框
 
-![效果图](C:\Users\Administrator\Desktop\效果图.png)f
+![](https://github.com/visayang/DialogLoadShow/pic/效果图.png)  
+
 
 简单配置：
 
